@@ -1,0 +1,1 @@
+please visit this link to download word2vector.txt
